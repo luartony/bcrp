@@ -7,7 +7,7 @@ djangorestframework==3.9.0
 get==2018.11.19
 gunicorn==19.9.0
 idna==2.7
-mysql-connector-python==8.0.12
+mysql-connector-python==8.0.14
 numpy==1.15.3
 pandas==0.23.4
 post==2018.11.20
